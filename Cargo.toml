@@ -1,0 +1,6 @@
+[package]
+name = "norvig"
+version = "0.1.0"
+authors = ["proudzhu <proudzhu.fdu@gmail.com>"]
+
+[dependencies]
